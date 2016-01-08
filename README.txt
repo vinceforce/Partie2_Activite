@@ -9,3 +9,6 @@ Si on se trouve sur une case contigüe à celle d'un autre joueur, un combat dé
 Avant le démarage du combat, on peut choisir si on va attaquer (on frappe le premier, mais les dégâts ingfligés par l'autre sont plus importants) ou défendre (c'est l'autre qui commence, mais les dégâts infligés sont diminués de moitié)
 Quand on a utilisé une arme, on la perd, et il faut se déplacer sur le plateau pour en récupérer une autre en vue d'un autre combat
 Le combattant qui n'a plus de points de vie a perdu
+
+POUR LANCER LE JEU
+Charger le fichier html/game.html dans un navigateur
