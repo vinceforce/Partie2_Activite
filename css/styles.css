@@ -1,0 +1,90 @@
+#carte td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid aqua;
+}
+
+.grisee {
+    background-color: grey;
+}
+
+#divCarte {
+    display: inline-block;
+}
+
+#divInfos {
+    display: inline-block;
+    width: 310px;
+    background-color: ivory;
+    border: 1px solid aquamarine;
+    text-align: center;
+    vertical-align: top;
+    margin-left: 50px;
+}
+
+#divInfos div {
+    width: 300px;
+}
+
+#infosJoueur1,
+#infosJoueur2 {
+    display: block;
+    background-color: skyblue;
+    text-align: left;
+    font-family: "Arial";
+    font-size: 12px;
+    padding: 5px;
+}
+
+#modeJeuAttaqueJ1,
+#modeJeuDefenseJ1,
+#modeJeuAttaqueJ2,
+#modeJeuDefenseJ2 {
+    border: 1px solid black;
+    font-family: "Arial";
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#modeJeuJ1,
+#modeJeuJ2 {
+    display: inline;
+    border: 1px solid black;
+    font-family: "Arial";
+    margin-bottom: 5px;
+}
+
+#modeJeuJ1 div,
+#modeJeuJ2 div {
+    display: inline;
+    font-family: "Arial";
+}
+
+#infosCell {
+    display: block;
+    width: 300px;
+    background-color: ivory;
+    font-family: "Arial";
+    font-size: 14px;
+}
+
+#infosCombat {
+    display: block;
+    width: 300px;
+    background-color: ivory;
+    font-family: "Arial";
+    font-size: 12px;
+    padding: 5px;
+    border-top: 1px solid aquamarine;
+    border-bottom: 1px solid aquamarine;
+}
+
+#divRejouer {
+    display: none;
+    margin-top: 10px;
+    background-color: green;
+    font-family: "Arial";
+    font-size: 18px;
+    padding: 5px;
+    width: 200px;
+}
